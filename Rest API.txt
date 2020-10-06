@@ -1,0 +1,6 @@
+A way to provide data in JSON format.
+ Allows multiple applications to interact with one single platform.
+
+ Serialization:
+ Allows us to return any object model as JSON Response(object).
+ 
